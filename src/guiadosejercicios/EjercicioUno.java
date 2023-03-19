@@ -17,7 +17,7 @@ public class EjercicioUno {
         int num1 = leer.nextInt();
         int num2= leer.nextInt();
         int suma = num1 + num2;
-           System.out.println("La suma de los números por usted ingresados es" + suma);
+           System.out.println("La suma de los números por usted ingresados es " + suma);
     
     }
 }
